@@ -5,4 +5,5 @@ scikit-learn
 catboost
 Xgboost
 pandas
+dill
 -e .
